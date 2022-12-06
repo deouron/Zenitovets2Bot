@@ -18,7 +18,7 @@
 
 <img width="789" alt="Снимок экрана 2022-12-03 в 18 21 17" src="https://user-images.githubusercontent.com/70703745/205448354-7fb8a291-b044-4630-a37a-72ce152235bf.png">
 
-- `/photo` - прислать последние 3 из раздела "Фото"
+- `/photo` - прислать последние 3 новости из раздела "Фото"
 
 <img width="789" alt="Снимок экрана 2022-12-03 в 18 21 52" src="https://user-images.githubusercontent.com/70703745/205448373-26bf1d40-e0c3-4235-9028-1cf268231063.png">
 
